@@ -9,7 +9,28 @@
 body {
   font-family: 'Poppins', sans-serif;
 }
-
+.item a {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px;
+  color: black;
+  text-decoration: none; 
+  color: white;
+}
+.item a:hover {
+  background-color: white;
+  color: black;
+}
+.contact{
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  height: 150px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20%;
+}
 p {
   margin: 15px 0;
   line-height: 1.8;
@@ -120,10 +141,10 @@ ol {
   }
 }
 .bgimage {
-  height:100vh;
+  height: 100vh;
   background: url('/images/posts/MISTAKE.jpg');
-  background-size:cover;
-  position:relative;
+  background-size: cover;
+  position: relative;
 }
 
 .hero_title {
@@ -141,16 +162,24 @@ ol {
   color: white;
 }
 
-.socialicons {
-  font-size: 20px;
+.socialicons a{
+  font-size: 30px;
   cursor: pointer;
+  margin: 10px;
+  
 }
-
+body{
+  background-color: black;
+}
 .fab {
   color: #000000;
-text-decoration: none;
+  text-decoration: none;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover,
+.fa-twitch:hover {
   color: #008000;
 }
 
@@ -161,12 +190,10 @@ footer {
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
-  background-color:#000;
-  color:white;
+  background-color: #000;
+  color: white;
 }
 
-
-
-.p:hover{
-   color:blue;
+.p:hover {
+  color: blue;
 }
