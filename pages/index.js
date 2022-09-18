@@ -11,16 +11,21 @@ export default function Home({ posts }) {
     <div>
       <Head>
         <title>NOIBIS blog</title>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+          crossorigin="anonymous"
+        ></script>
+        <meta name="blog" content="coding blog" />
 
       </Head>
-    <div className='posts'>
-      {posts.map((post, index) => (
-        <Post key={index} post={post} />
-      )
-      )}
+      <div className="posts">
+        {posts.map((post, index) => (
+          <Post key={index} post={post} />
+        ))}
+      </div>
     </div>
-</div>
-  )
+  );
 }
 export async function getStaticProps() {
   // Get files from the post dir

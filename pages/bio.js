@@ -7,7 +7,12 @@ const Bio = () => {
       <>
         <Head>
           <title>noibisjunior | BIO</title>
-          <meta name="keywords" content="Noibisjunior" />
+          <meta name="portfolio" content="web developer" />
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+            crossorigin="anonymous"
+          ></script>
         </Head>
         <section className="bgimage">
           <div className="container-fluid">
@@ -108,7 +113,7 @@ const Bio = () => {
           </div>
         </div>
       </>
-    )
+    );
 }
 
 export default Bio

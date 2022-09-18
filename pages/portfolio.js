@@ -5,7 +5,12 @@ const portfolio = () => {
       <>
         <Head>
           <title>noibisjunior | Project</title>
-          <meta name="keywords" content="Noibisjunior" />
+          <meta name="project" content="coding blog" />
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+            crossorigin="anonymous"
+          ></script>
         </Head>
         <section id="portfolio">
           <div className="container mt-5">
@@ -16,7 +21,8 @@ const portfolio = () => {
                   <img
                     className="card-img-top"
                     src="/images/posts/comp.jpg"
-                    style={{ width: '100%' }} alt='code'
+                    style={{ width: '100%' }}
+                    alt="code"
                   />
                   <div className="card-body">
                     <h4 className="card-title">
@@ -145,7 +151,7 @@ const portfolio = () => {
           </div>
         </section>
       </>
-    )
+    );
 }
 
 export default portfolio
