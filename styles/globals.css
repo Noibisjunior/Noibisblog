@@ -14,14 +14,14 @@ body {
   display: inline-block;
   padding: 10px;
   color: black;
-  text-decoration: none; 
+  text-decoration: none;
   color: white;
 }
 .item a:hover {
   background-color: white;
   color: black;
 }
-.contact{
+.contact {
   border: 2px solid white;
   background-color: black;
   color: white;
@@ -135,9 +135,31 @@ ol {
   line-height: 2.3;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   .posts {
     grid-template-columns: 1fr;
+    margin-left: 25px;
+  }
+  .contact {
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  footer {
+    display: flex;
+    flex: 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: white;
+    text-align: center;
   }
 }
 .bgimage {
@@ -162,13 +184,12 @@ ol {
   color: white;
 }
 
-.socialicons a{
+.socialicons a {
   font-size: 30px;
   cursor: pointer;
   margin: 10px;
-  
 }
-body{
+body {
   background-color: black;
 }
 .fab {
