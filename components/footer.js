@@ -1,11 +1,11 @@
-
+import Script from "next/script";
 
 const Footer = () => {
   return (
     <>
       <script
         src="https://kit.fontawesome.com/94262bb834.js"
-        crossOrigin="anonymous"
+        crossOrigin="anonymous" async
       ></script>
 
       <div>
