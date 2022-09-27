@@ -1,15 +1,15 @@
 import matter from 'gray-matter'
-import Head from 'next/head'
 import path from 'path'
 import fs from 'fs'
 import Post from '../components/post'
+import Script from 'next/script';
 import { sortByDate } from '../utils'
 
 export default function Home({ posts }) {
 
   return (
     <div>
-      <Head>
+      
         <title>NOIBIS blog</title>
         <script
           async
@@ -17,8 +17,6 @@ export default function Home({ posts }) {
           crossOrigin="anonymous"
         ></script>
         <meta name="blog" content="coding blog" />
-
-      </Head>
       <div className="posts">
         {posts.map((post, index) => (
           <Post key={index} post={post} />

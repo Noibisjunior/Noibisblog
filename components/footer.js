@@ -1,14 +1,13 @@
-import Head from 'next/head';
+
 
 const Footer = () => {
   return (
     <>
-      <Head>
-        <script
-          src="https://kit.fontawesome.com/94262bb834.js"
-          crossorigin="anonymous"
-        ></script>
-      </Head>
+      <script
+        src="https://kit.fontawesome.com/94262bb834.js"
+        crossOrigin="anonymous"
+      ></script>
+
       <div>
         <footer>
           <div className="socialicons">

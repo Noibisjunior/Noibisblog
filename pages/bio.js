@@ -1,11 +1,11 @@
+import Script from "next/script";
 
-import Head from "next/head"
 
 
 const Bio = () => {
     return (
       <>
-        <Head>
+        
           <title>noibisjunior | BIO</title>
           <meta name="portfolio" content="web developer" />
           <script
@@ -13,7 +13,6 @@ const Bio = () => {
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
             crossOrigin="anonymous"
           ></script>
-        </Head>
         <section className="bgimage">
           <div className="container-fluid">
             <div className="row">
