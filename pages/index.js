@@ -1,6 +1,7 @@
 import matter from 'gray-matter'
 import path from 'path'
 import fs from 'fs'
+import Head from 'next/head'
 import Post from '../components/post'
 import Script from 'next/script';
 import { sortByDate } from '../utils'
@@ -8,7 +9,9 @@ import { sortByDate } from '../utils'
 export default function Home({ posts }) {
 
   return (
-    <div>
+    <>
+    <Head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       
         <title>NOIBIS blog</title>
         <script
@@ -17,12 +20,14 @@ export default function Home({ posts }) {
           crossOrigin="anonymous"
         ></script>
         <meta name="blog" content="coding blog" />
+        </Head>
       <div className="posts">
         {posts.map((post, index) => (
           <Post key={index} post={post} />
         ))}
       </div>
-    </div>
+    
+    </>
   );
 }
 export async function getStaticProps() {
