@@ -9,14 +9,34 @@ cover_image: '/images/posts/download 6.jpg'
 While Apple often gets much of the hype and glitter in the United States and other Western economies, Android devices remain far more prevalent and popular throughout the world. From Samsung to LG, Huawei to Google, there are a plethora of companies creating Android-powered devices that only thrive thanks to the capabilities and possibilities of Android operating systems. This also means that because of the importance of good Android OS options, Android developers continue to be in significant demand around the world.
 
 However, unlike Apple, which predominantly uses iOS in terms of development and offers a more limited array of devices, Android devices offer a much greater array of hardware opportunities and challengers. Additionally, the variety of manufacturers means that Android developers often need significant technical chops and a knowledge of useful and versatile programming languages to be truly effective and successful. While Apple developers can often dive deep into Swift to begin their careers, Android developers have a bigger array of languages to choose from when picking out coding classes or learning their first programming language.
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5322277310257930"
+     data-ad-slot="5558667291"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 So what is the ideal language for an Android developer to learn first? Which languages offer the least challenging learning curve, greatest scalability and versatility, and most “bang for your buck” in terms of becoming a successful Android developer as a career? Here are 3 languages you should know to become an Android developer, as well as the specific benefits and challenges that come with learning each.
 
 Java 
 Arguably the most widely used programming language in the world today, Java is also the most popular language currently used for Android app development (it was the first official language of Android development, although that mantle has been passed to Kotlin in more recent years). Currently, most of the mobile apps featured within the Google Play Store were created by using this language. One of the biggest reasons for this is that the Java language is supported by Google, which made it a natural choice for early Android developers, even though the language itself has been in existence since well before smartphones became the ubiquitous devices they are today. Java offers a significant benefit over many lesser known languages -- a massive existing global developer community that offers a greater library of tools, plugins, resources, and support networks than perhaps any other language. 
 
 To be clear, Java isn’t the easiest language for beginning coders to learn, and it requires experience working and writing code with it to create complex mobile apps and effectively tackle the app development process. Java is a complicated language for a beginner to use because it contains intricate topics like constructors, null pointer exceptions, concurrency, checked exceptions, and others that go beyond the more simplistic components of beginner-friendly languages like Python or Ruby. The Android Software Development Kit(SDK) adds in additional layers of complexity for learning the language and using it.
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5322277310257930"
+     data-ad-slot="5558667291"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 However, despite the steeper learning curve for Java, once you have mastered it, you can build elegant and user-friendly apps that can compete with anything that exists in the Google Play store today. And, Java offers a variety of other use cases outside of mobile development - meaning you can shift to a new area of development later in your career if you are interested in a change of pace from mobile development.
 
 Kotlin 

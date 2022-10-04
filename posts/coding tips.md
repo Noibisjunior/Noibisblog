@@ -28,7 +28,17 @@ cover_image: '/images/posts/comp.jpg'
 <blockquote>"BELIEVE IN YOURSELF AND YOU ARE HALFWAY THERE" -Theodore Roosevelt</blockquote>
 
 <h3>2. FIND STRUCTURED LEARNING RESOURCES FOR YOUR NICHE</h3>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5322277310257930"
+     data-ad-slot="5558667291"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <p>Congratulation on picking a niche!!!.The next step is to find a structured learning resources that has progressive list and subject alongside some code exercise for practice.</p>
 
 <h4>There are factors you need to consider when choosing a learning resources</h4>
@@ -63,7 +73,17 @@ cover_image: '/images/posts/comp.jpg'
 <p>As a beginner in web-development,it is easy to get stuck in the tutrial zone,but building projects is mutually exclusive to the learning phase and it makes you become a better developer because by building project,it makes you practice what you have learnt in the tutorial zone</p>
 
 <p>One way to get some practice is,at the end of every module,think of feature that you can add to the project that you have coded.Just try to build something with the new knowledge that you have gained in the tutorial.</p>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5322277310257930"
+     data-ad-slot="5558667291"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <p>It doesn't have to be too fancy.The most important thing is that you have written the code,run into errors,google how to debug it and gain more understanding.<blockquote>"Practice solidifies knowledge"</blockquote> so practice.One completed project is better than 10 watched tutorials.</p>
 
 <h3>5. NETWORK</h3>
