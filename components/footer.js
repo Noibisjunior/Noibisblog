@@ -8,8 +8,9 @@ const Footer = () => {
         crossOrigin="anonymous" async
       ></script>
 
-      <div>
-        <footer>
+      
+        <footer className="p-5 bg-dark text-white text-center position-relatives">
+          <div className="container">
           <div className="socialicons">
             <a href="https://www.facebook.com/Noibis Junior">
               <i className="fa-brands fa-facebook"></i>
@@ -24,14 +25,14 @@ const Footer = () => {
               <i className="fa-brands fa-github-square"></i>
             </a>
           </div>
-          <p>CREATED BY NOIBISJUNIOR,2022</p>
+          <p className="lead text-center">CREATED BY NOIBISJUNIOR,2022</p>
           <div className="contact">
             <p>Reach Me at</p>
             <p> Contact No: +234-0905-7210-160</p>
             <p> Email: Noibisjunior22@gmail.com</p>
           </div>
-        </footer>
-      </div>
+          </div>
+        </footer>   
     </>
   );
 };

@@ -5,7 +5,7 @@ const Nav = () => {
     return (
       <>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <nav className="navbar navbar-expand-md fixed-top navbar-dark bg-dark ">
+        <nav className="navbar navbar-expand-md fixed-top navbar-dark p-3 bg-dark ">
           <div className="container">
             <Link href="/" passHref>
               <a className="navbar-brand mb-0 h1">NOIBISJUNIOR</a>
