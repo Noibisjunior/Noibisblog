@@ -8,6 +8,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <meta
+          name="google-site-verification"
+          content="xZ66clovg4MBY7UGSxVvjX9TKOBedfeFPwu8-qeO7nU"
+        />
         <link rel="icon" href="public\images\posts\abdul.jpg" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link
