@@ -99,5 +99,5 @@ cover_image: '/images/posts/comp.jpg'
 
 <p>Lastly,remember your consistency and perseverance towards learning will definetly pay off.GOODLUCK!!!</p>
 
-<P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="www.youtube.com/clericcoder">MY CHANNEL</a></P>
+<P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="https://www.youtube.com/channel/UCJQmbtiMOaWro6ZCstnkhkg">MY CHANNEL</a></P>
 <p>THANKS FOR READING.</p>

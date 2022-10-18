@@ -55,3 +55,6 @@ Other Android Development Languages To Know
 Python - can be used for Android development even though Android doesn’t support native Python development, by using various tools that convert Python apps into Android packages that can operate on Android devices. Python also offers one of the easiest learning curves for new developers, thanks to its clean and plain English-like syntax.
 Corona - a software development kit that can be utilized for developing Android apps by using Lua. While Lua is more limited when compared to Java, it is also significantly simpler and offers an easier learning curve. Moreover, there are built-in monetization features along with various assets and plugins that enrich the app development process.
 HTML/CSS/JavaScript - Android apps can also be created by using a hodgepodge of HTML, CSS, and JavaScript through the Adobe PhoneGap framework, which is powered by Apache Cordova. The PhoneGap framework essentially allows the usage of web development skills to create hybrid apps, which are displayed through “WebView” but remain packaged like a standard Android app. 
+
+<P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="https://www.youtube.com/channel/UCJQmbtiMOaWro6ZCstnkhkg">MY CHANNEL</a></P>
+<p>THANKS FOR READING.</p>

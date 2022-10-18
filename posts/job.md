@@ -47,3 +47,6 @@ GrubHub, Tock, DoorDash -- in just a few years time, apps like these and others 
 
 #10: Industrial And Manufacturing 
 Automation has been a rising force in the traditional fields of industrial production and manufacturing for decades now, but the switch to AI-powered production and factory operations over the past few years especially has exploded the demand for skilled coders to work in factory management positions. Knowledge of cutting-edge fields like machine learning or the Internet of Things (IoT) is no longer just a benefit of a new hire -- it’s rapidly becoming essential in everything from agricultural production to supply chain management. Anyone planning a career in these areas is only getting ahead of the continual shift toward automation by being able to work with the actual code behind the hardware and software in modern factories.
+
+<P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="https://www.youtube.com/channel/UCJQmbtiMOaWro6ZCstnkhkg">MY CHANNEL</a></P>
+<p>THANKS FOR READING.</p>
