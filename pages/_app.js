@@ -12,7 +12,10 @@ function MyApp({ Component, pageProps }) {
           name="google-site-verification"
           content="xZ66clovg4MBY7UGSxVvjX9TKOBedfeFPwu8-qeO7nU"
         />
-        <link rel="icon" href="public\images\posts\abdul.jpg" />
+        <link
+          rel="icon"
+          href="/images/posts/download 6.jpg"
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
