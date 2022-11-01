@@ -14,11 +14,6 @@ export default function Home({ posts }) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       
         <title>NOIBIS blog</title>
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-          crossOrigin="anonymous"
-        ></script>
         <meta name="blog" content="coding blog" />
         </Head>
       <div className="posts">

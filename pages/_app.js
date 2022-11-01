@@ -36,12 +36,7 @@ function MyApp({ Component, pageProps }) {
           crossOrigin="anonymous"
           async
         ></script>
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-          cross-origin="anonymous"
-        ></script>
-      </Head>
+              </Head>
 
       <Layout>
         <main className="container">
