@@ -6,6 +6,7 @@ const portfolio = () => {
     <>
       <title>noibisjunior | Project</title>
       <script
+        async="async"
         type="text/javascript"
         src="//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js"
       ></script>
