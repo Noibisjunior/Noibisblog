@@ -4,6 +4,7 @@ import Script from 'next/script';
 const portfolio = () => {
   return (
     <>
+    <head>
       <title>noibisjunior | Project</title>
       <script
         async="async"
@@ -12,6 +13,8 @@ const portfolio = () => {
       ></script>
 
       <meta name="project" content="coding blog" />
+      </head>
+      <body>
       <section id="portfolio">
         <div className="container mt-5">
           <h1 className="text-center"> Other Featured Project Includes</h1>
@@ -162,6 +165,7 @@ const portfolio = () => {
           </div>
         </div>
       </section>
+      </body>
     </>
   );
 };

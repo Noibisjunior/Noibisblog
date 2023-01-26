@@ -5,7 +5,14 @@ excerpt: 'If you are a beginner in coding,then this article is for you.Here are 
 1. Pick a Speciality.'
 cover_image: '/images/posts/2024.png'
 ---
+<body>
+<head>
 <script type='text/javascript' src='//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js'></script>
+
+<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
+<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
+
+</head>
 
 <h3>Here are some Tips That Will Keep You Motivated When Learning To Code.</h3>
 
@@ -44,8 +51,6 @@ cover_image: '/images/posts/2024.png'
  <blockquote>"If you chase two rabbits,you will not catch any"</blockquote>
  <p>Good job,you have done it.you have figured out what you need to learn to smash your goals by finding a learning resources to use.Now it is time to learn those resources sequentially,not simultaneously.</p>
 
-<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
-<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
  <h4>BE CONSISTENT</h4>
  <p>The first thing to do is to set aside time for your learning.Set a specific time everyday during your daily scheduled within which you will learn and be selfish about it</p>
@@ -58,8 +63,6 @@ cover_image: '/images/posts/2024.png'
  <h4>STAY FOCUSED</h4>
  <P>It is also important that you remember to focus on your outlined learning plan and your chosen leraning resources</p>
 
-<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
-<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
  <p>In the tech-spehere, there is always a shiny new object i.e something new to learn.Please dont get carried away or overwhelmed,that's the reason why you need to focus.</p>
  <blockquote>One completed tutorial is better than 10 sampled tutorial</blockquote>
@@ -72,8 +75,6 @@ cover_image: '/images/posts/2024.png'
 <p>One way to get some practice is,at the end of every module,think of feature that you can add to the project that you have coded.Just try to build something with the new knowledge that you have gained in the tutorial.</p>
 <p>It doesn't have to be too fancy.The most important thing is that you have written the code,run into errors,google how to debug it and gain more understanding.<blockquote>"Practice solidifies knowledge"</blockquote> so practice.One completed project is better than 10 watched tutorials.</p>
 
-<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
-<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
 <h3>5. NETWORK</h3>
 <p>To network simply means to learn in public and put yourself out there</p>
@@ -91,3 +92,4 @@ cover_image: '/images/posts/2024.png'
 <P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="https://www.youtube.com/channel/UCJQmbtiMOaWro6ZCstnkhkg">MY CHANNEL</a></P>
 <p>THANKS FOR READING.</p>
 
+</body>

@@ -3,6 +3,7 @@ import Script from 'next/script';
 const Bio = () => {
   return (
     <>
+    <head>
       <title>noibisjunior | BIO</title>
       <meta name="portfolio" content="web developer" />
       <script
@@ -10,7 +11,8 @@ const Bio = () => {
         type="text/javascript"
         src="//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js"
       ></script>
-
+</head>
+<body>
       <section className="bgimage">
         <div className="container-fluid">
           <div className="row">
@@ -115,6 +117,7 @@ const Bio = () => {
           </div>
         </div>
       </div>
+      </body>
     </>
   );
 };
