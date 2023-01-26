@@ -5,6 +5,11 @@ const Bio = () => {
     <>
       <title>noibisjunior | BIO</title>
       <meta name="portfolio" content="web developer" />
+      <script
+        type="text/javascript"
+        src="//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js"
+      ></script>
+
       <section className="bgimage">
         <div className="container-fluid">
           <div className="row">
@@ -46,6 +51,12 @@ const Bio = () => {
             </div>
           </div>
         </div>
+        <script
+          async="async"
+          data-cfasync="false"
+          src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"
+        ></script>
+        <div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
         <div className="col-lg-4 mt-5">
           <div className="card portfolioContent">

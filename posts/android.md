@@ -4,7 +4,7 @@ date: 'october 31, 2022'
 excerpt: 'learning one of these powerful programming language enables you to become  successful as an  Android developer in the tech industry. Here are 3 languages you should know to become an Android developer'
 cover_image: '/images/posts/android.jpg'
 ---
-
+<script type='text/javascript' src='//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js'></script>
 
 ## pick one of these  programming Languages  To Become An Android Developer
 
@@ -14,8 +14,14 @@ So what is the best language for an Android developer to learn first? Which lang
 
 ## Java programming language
 
+<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
+<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
+
 Java is also the most popular language currently used for Android app development (it was the first official language of Android development, although kotlin is taking the lead in recent years). Currently, most of the mobile apps featured within the Google Play Store were created by using this language. One of the main reasons for this is that the Java programming language is a platform independent language that makes use of the java virtual machine which convert the java bytecode into machine code.it also makes use of the code security which is implemented on the java runtime environment.
 The disadvantage of Java is that the language is not easy to learn for beginners, and it requires experience working and writing code with it to create complex mobile apps and effectively tackle the app development process. Java is a difficult language to learn because it contains complex topics like constructors, null pointer exceptions, concurrency, checked exceptions, garbage collection thread,software development kit (sdk) as opposed simpler beginner-friendly languages like Python or Ruby.
+
+<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
+<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
 ## Dart programming language
 

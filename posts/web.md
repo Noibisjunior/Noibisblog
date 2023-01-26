@@ -6,7 +6,7 @@ excerpt: 'The trends of web development has changed significantly in recent year
 '
 cover_image: '/images/posts/dev.jpg'
 ---
-
+<script type='text/javascript' src='//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js'></script>
 
 ## pick one of these  programming Language to Become A Web Developer
 
@@ -19,6 +19,9 @@ There is no doubt that JavaScript is the king of web development, and the most p
 The strength of JavaScript goes beyond operating on any browser and server (by using NodeJS), but especially the combination of frameworks and libraries that optimize JavaScript for web development and app development. Angular, React,and vue are key frameworks that optimize javascript in the frontend while Node.js powers it scalabilty on the backend -- The global community of javascript also offers all the benefits of any well-supported language -- numerous resources for receiving help or finding open sourced solutions for coding problems, networking opportunities to collaborate with other JavaScript developers.
 
 ## Python
+
+<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
+<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
 While JavaScript is reigning as the king of web development, Python is nearly as popular around the globe; not only because of its useful applications for web development, but also for its versatility as an option for data science, machine learning and Artificial intelligence,Neural Network,Internet of Things (IOT) and others. Python is one of the best languages for beginners in programming to learn, due to its simple syntax (often considered the closest to plain English), simpler learning curve, and structural principles that makes easy to master.
 

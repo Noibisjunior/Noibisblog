@@ -8,6 +8,9 @@ In this article, you will learn about apps and resources you can use to code on 
 '
 cover_image: '/images/posts/mobile.jpg'
 ---
+
+<script type='text/javascript' src='//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js'></script>
+
 <h3>
 In this article, you will learn about apps and resources you can use to code on a mobile device
 </h3>
@@ -46,6 +49,9 @@ TrebEdit is not only just an HTML editor, but there is also a feature for you to
 <h3><a href="https://www.sololearn.com/">  SOLOLEARN</a>
 </h3>
 Sololearn is one of the most comprehensive learning platforms for solo learners. Their platform is entirely free, but you can always become a paying subscriber. The difference is that subscribers get access to more material. But, for getting started – there are no associated costs. All you have to do is decide on the language you wish to learn.
+
+<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
+<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
 <h3><a href="https://getmimo.com/">MIMO</a>
 </h3>

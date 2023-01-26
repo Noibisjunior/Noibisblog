@@ -6,6 +6,8 @@ excerpt: "Starting a development server for your project can be a bit tricky, es
 cover_image: '/images/posts/development-server.png'
 ---
 
+<script type='text/javascript' src='//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js'></script>
+
 <style>
 code {
   font-family: Consolas,"courier new";
@@ -47,6 +49,9 @@ For example, if you want to start the development server and bind it to the IP a
 <code>
 npm run dev -- --host=127.0.0.1
 </code>
+
+<script async="async" data-cfasync="false" src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"></script>
+<div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
 This will start the development server and it will be accessible only on the localhost, i.e, it can only be accessed from the machine on which it is running.
 

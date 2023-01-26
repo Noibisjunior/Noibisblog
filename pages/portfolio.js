@@ -5,6 +5,11 @@ const portfolio = () => {
   return (
     <>
       <title>noibisjunior | Project</title>
+      <script
+        type="text/javascript"
+        src="//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc679de968d3ea881edfe3d9c47c.js"
+      ></script>
+
       <meta name="project" content="coding blog" />
       <section id="portfolio">
         <div className="container mt-5">
@@ -38,6 +43,12 @@ const portfolio = () => {
                 </div>
               </div>
             </div>
+            <script
+              async="async"
+              data-cfasync="false"
+              src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"
+            ></script>
+            <div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
             <div className="col-lg-4 mt-5">
               <div className="card portfolioContent">
@@ -88,6 +99,12 @@ const portfolio = () => {
                 </div>
               </div>
             </div>
+            <script
+              async="async"
+              data-cfasync="false"
+              src="//pl18342362.highcpmrevenuenetwork.com/784731eb4a2ec065ec0989a6bb7afb58/invoke.js"
+            ></script>
+            <div id="container-784731eb4a2ec065ec0989a6bb7afb58"></div>
 
             <div className="col-lg-4 mt-5">
               <div className="card">

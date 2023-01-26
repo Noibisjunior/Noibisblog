@@ -2,6 +2,11 @@ import Link from 'next/link'
 
 export default function Post({ post }) {
   return (
+    <>
+    <script type='text/javascript' 
+    src='//pl18342317.highcpmrevenuenetwork.com/78/c8/bc/78c8bc6
+    79de968d3ea881edfe3d9c47c.js'>
+    </script>
     <div className='card'>
     <img src={post.frontmatter.cover_image}
     alt=''/>
@@ -15,5 +20,6 @@ export default function Post({ post }) {
         <a className='style'>Read More</a>
     </Link>
     </div>
+    </>
   )
 }
