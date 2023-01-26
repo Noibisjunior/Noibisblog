@@ -1,19 +1,11 @@
 ---
 title: 'An article for self-taught developer'
-date: 'October 29, 2022'
+date: 'January 10, 2023'
 excerpt: 'If you are a beginner in coding,then this article is for you.Here are some Tips That Will Keep You Motivated When Learning To Code. 
 1. Pick a Speciality.'
-cover_image: '/images/posts/comp.jpg'
+cover_image: '/images/posts/2024.png'
 ---
 
-<head>
-<script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-          cross-origin="anonymous"
-        ></script>
-
-</head>
 <h3>Here are some Tips That Will Keep You Motivated When Learning To Code.</h3>
 
 <ol>
@@ -89,14 +81,3 @@ cover_image: '/images/posts/comp.jpg'
 <P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="https://www.youtube.com/channel/UCJQmbtiMOaWro6ZCstnkhkg">MY CHANNEL</a></P>
 <p>THANKS FOR READING.</p>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-     crossorigin="anonymous"></s>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5322277310257930"
-     data-ad-slot="5558667291"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

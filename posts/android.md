@@ -2,16 +2,9 @@
 title: 'pick one of these  programming Languages  To Become An Android Developer'
 date: 'october 31, 2022'
 excerpt: 'learning one of these powerful programming language enables you to become  successful as an  Android developer in the tech industry. Here are 3 languages you should know to become an Android developer'
-cover_image: '/images/posts/download 6.jpg'
+cover_image: '/images/posts/android.jpg'
 ---
 
-<head>
-<script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-          cross-origin="anonymous"
-        ></script>
-</head>
 
 ## pick one of these  programming Languages  To Become An Android Developer
 

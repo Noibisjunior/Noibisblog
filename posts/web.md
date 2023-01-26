@@ -1,19 +1,12 @@
 ---
 title: "pick one of these  programming Language to become a Web Developer
 "
-date: 'October 30, 2022'
+date: 'October 15, 2022'
 excerpt: 'The trends of web development has changed significantly in recent years especially  in the development of android application which involves the use of the react native language  from a javascript framework called React which has helped many web developers transition into app development easily. 
 '
-cover_image: '/images/posts/comp.jpg'
+cover_image: '/images/posts/dev.jpg'
 ---
 
-<head>
-<script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-          cross-origin="anonymous"
-        ></script>
-</head>
 
 ## pick one of these  programming Language to Become A Web Developer
 
@@ -52,14 +45,3 @@ HTML/CSS - along with JavaScript, knowing HTML and CSS and how to manipulate the
 <P>please if you enjoy reading  this article,subscribe to my youtube channel<a href="https://www.youtube.com/channel/UCJQmbtiMOaWro6ZCstnkhkg">MY CHANNEL</a></P>
 <p>THANKS FOR READING.</p>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5322277310257930"
-     crossorigin="anonymous"></s>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5322277310257930"
-     data-ad-slot="5558667291"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
